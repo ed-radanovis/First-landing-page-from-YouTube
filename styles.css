@@ -138,6 +138,13 @@ li{
     background-color: #4F4F4F	;
 }
 
+.paragrafo-inferior{
+    color: #FFFFFF;
+    font-size: 28px;
+    text-align: center;
+    padding: 20px 50px 50px 50px;
+}
+
 #titulo-inferior{
     color: #FFFFFF;
     font-size: 40px;
@@ -145,9 +152,3 @@ li{
     padding-top: 50px;
 }
 
-.paragrafo-inferior{
-    color: #FFFFFF;
-    font-size: 28px;
-    text-align: center;
-    padding: 20px 50px 50px 50px;
-}
